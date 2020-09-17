@@ -1,6 +1,3 @@
 
-chapters/.ipynb_checkpoints/
-
-notebooks/.ipynb_checkpoints/
-
-chapters/
+*/.ipynb_checkpoints/
+original_notebooks/
