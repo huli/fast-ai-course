@@ -1,3 +1,5 @@
 
 */.ipynb_checkpoints/
 original_notebooks/
+
+chapters/__pycache__/
